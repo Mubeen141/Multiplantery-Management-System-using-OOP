@@ -1,0 +1,6 @@
+         Planet ID: 1345
+         Planet Name: Hunza
+         No of Cities: 34
+         Planet Population: 340000
+         Planet Status: Captured
+         Planet BaseshipName: Naga
